@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="69922a7fae73490c9ca63d672e0d9b0b" Name="Diagram1">
+        <EntityTypeShape EntityType="PorteBoshboModel.Course" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Department" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.EducationLevel" Width="1.5" PointX="0.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Payment" Width="1.5" PointX="8.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Review" Width="1.5" PointX="8.25" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Session" Width="1.5" PointX="8.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Token" Width="1.5" PointX="8.25" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.Topic" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.User" Width="1.5" PointX="6" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PorteBoshboModel.UserTopic" Width="1.5" PointX="11.25" PointY="8.375" IsExpanded="true" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Topic_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Topic_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_User_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Topic_EducationLevel" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_User_EducationLevel" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Payment_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Payment_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Review_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Review_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Session_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Session_Teacher" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_Tokens_User" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_UserTopic_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="PorteBoshboModel.FK_UserTopic_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

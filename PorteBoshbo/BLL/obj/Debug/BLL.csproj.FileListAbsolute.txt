@@ -1,0 +1,84 @@
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\BLL.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\BLL.pdb
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\AutoMapper.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\DAL.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\System.Web.Cors.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\System.Web.Http.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\EntityFramework.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\DAL.pdb
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\DAL.dll.config
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\AutoMapper.xml
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\System.Web.Http.xml
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\bin\Debug\EntityFramework.xml
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\obj\Debug\BLL.dll
+C:\Users\fhmha\Desktop\FinalProject APDN\BLL\obj\Debug\BLL.pdb
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.pdb
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Cors.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.pdb
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll.config
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.xml
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.xml
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.xml
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.dll
+C:\Users\fhmha\Desktop\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Cors.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll.config
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.xml
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.xml
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.pdb
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\BLL.pdb
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Cors.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.pdb
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\DAL.dll.config
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\AutoMapper.xml
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Net.Http.Formatting.xml
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\System.Web.Http.xml
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\bin\Debug\EntityFramework.xml
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.dll
+E:\swe\Checkpoint 2\PorteBoshbo(Hackathon)\BLL\obj\Debug\BLL.pdb
